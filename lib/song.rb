@@ -8,7 +8,6 @@ class Song
   end
   
   def artist
-    
     puts self.artist.name 
   end 
 
