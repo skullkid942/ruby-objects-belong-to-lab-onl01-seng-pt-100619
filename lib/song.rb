@@ -4,9 +4,9 @@ class Song
   
   
   
-  #def artist=(artist)
-    #self.artist = artist
-  #end 
+  def artist=(artist)
+    self.artist = artist
+  end 
   
   def artist
     puts self.artist.name 
