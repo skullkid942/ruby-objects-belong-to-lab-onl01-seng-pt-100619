@@ -9,7 +9,7 @@ class Song
   
   def artist
     
-    puts @title.artist.name 
+    puts self.artist.name 
   end 
 
 end 
