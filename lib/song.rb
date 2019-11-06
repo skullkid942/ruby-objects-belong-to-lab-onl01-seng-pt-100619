@@ -6,7 +6,7 @@ class Song
     @title = title
   end
   
-  def artist(song)
+  def artist
     puts song.artist.name 
   end 
 
