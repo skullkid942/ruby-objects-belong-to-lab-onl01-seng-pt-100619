@@ -7,6 +7,10 @@ class Song
     @artist = artist
   end
   
+  def artist=(artist)
+    @title.artist = artist
+  end 
+  
   def artist
     puts self.artist.name 
   end 
