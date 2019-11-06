@@ -8,7 +8,8 @@ class Song
   end
   
   def artist
-    puts title.artist.name 
+    
+    puts @title.artist.name 
   end 
 
 end 
