@@ -4,7 +4,7 @@ class Song
   
   
   def artist
-    puts song.artist.name 
+    puts title.artist.name 
   end 
 
 end 
