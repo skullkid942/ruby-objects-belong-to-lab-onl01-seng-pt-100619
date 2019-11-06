@@ -4,7 +4,7 @@ class Song
   
   
   
-  def artist=(artist)
+  #def artist=(artist)
     #self.artist = artist
   end 
   
